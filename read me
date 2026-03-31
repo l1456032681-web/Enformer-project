@@ -1,0 +1,4 @@
+
+├── notebook/                # Main Colab / Jupyter notebooks
+├── src/                     # Core source code and workflow scripts
+├── report/                  # Output figures, tables, Excel summaries, and report assets
